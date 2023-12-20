@@ -1,4 +1,4 @@
-const displayInput = document.getElementById('inputvalue')
+const displayInput = document.getElementById('inputValue')
 
 //variables
 const operators = ['-', '+', '%', '*', '/']
